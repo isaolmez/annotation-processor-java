@@ -1,6 +1,6 @@
 package com.isa.annotation.client.inheritance;
 
-import com.isa.annotations.FlagRuntime;
+import com.isa.annotation.FlagRuntime;
 
 /**
  * FlagRuntime: Overrides the subclass annotation value 

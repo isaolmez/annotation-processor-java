@@ -35,13 +35,13 @@
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>
-					<annotationProcessorPaths>
+					<!-- <annotationProcessorPaths>
 						<path>
 							<groupId>com.isa</groupId>
 							<artifactId>annotation-processor</artifactId>
 							<version>0.0.1-SNAPSHOT</version>
 						</path>
-					</annotationProcessorPaths>
+					</annotationProcessorPaths> -->
 					<annotationProcessors>
 						<annotationProcessor>com.isa.annotation.processor.FirstProcessor</annotationProcessor>
 					</annotationProcessors>

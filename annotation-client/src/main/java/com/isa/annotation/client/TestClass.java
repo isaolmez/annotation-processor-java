@@ -1,6 +1,6 @@
 package com.isa.annotation.client;
 
-import com.isa.annotations.ClassPreamble;
+import com.isa.annotation.ClassPreamble;
 
 @ClassPreamble(
 		author = "John Doe",

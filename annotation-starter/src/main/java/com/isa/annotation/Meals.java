@@ -1,4 +1,4 @@
-package com.isa.annotations;
+package com.isa.annotation;
 
 public @interface Meals {
 	Meal[] value();

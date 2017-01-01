@@ -1,9 +1,8 @@
 package com.isa.annotation.client;
 
-import com.isa.annotations.Meal;
+import com.isa.annotation.Meal;
 
-@Meal(value = "breakfast", salty = true)
-@Meal(value = "lunch", salty = false)
+@Meal(value = "Chipotle", salty = true)
 public class MealTable {
 
 }
