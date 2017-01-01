@@ -2,7 +2,7 @@ package com.isa.annotations;
 
 import java.lang.annotation.Repeatable;
 
-@Repeatable(MealContainer.class)
+@Repeatable(Meals.class)
 public @interface Meal {
 	String value();
 

@@ -1,15 +1,12 @@
-package com.isa.annotation.client;
+package com.isa.annotation.client.inheritance;
 
 import java.lang.annotation.Annotation;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.isa.annotation.client.usage.complex.SubClass1;
-import com.isa.annotation.client.usage.complex.SubClass2;
-
 public class TestClient {
-	private final static Logger LOG = LoggerFactory.getLogger(TestClient.class);
+	private static final Logger LOG = LoggerFactory.getLogger(TestClient.class);
 
 	public static void main(String[] args) {
 		LOG.info("===> {}", SubClass1.class);

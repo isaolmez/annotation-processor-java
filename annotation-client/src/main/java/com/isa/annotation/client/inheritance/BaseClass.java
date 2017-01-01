@@ -1,4 +1,4 @@
-package com.isa.annotation.client.usage.complex;
+package com.isa.annotation.client.inheritance;
 
 import com.isa.annotations.FlagInherited;
 import com.isa.annotations.FlagRuntime;

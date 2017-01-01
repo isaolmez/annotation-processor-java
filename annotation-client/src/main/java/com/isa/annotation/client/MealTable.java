@@ -1,4 +1,4 @@
-package com.isa.annotation.client.usage;
+package com.isa.annotation.client;
 
 import com.isa.annotations.Meal;
 

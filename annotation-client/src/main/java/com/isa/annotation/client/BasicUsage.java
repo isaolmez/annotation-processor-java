@@ -1,4 +1,4 @@
-package com.isa.annotation.client.usage;
+package com.isa.annotation.client;
 
 public class BasicUsage {
 

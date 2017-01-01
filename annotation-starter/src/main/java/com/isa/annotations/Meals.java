@@ -1,5 +1,5 @@
 package com.isa.annotations;
 
-public @interface MealContainer {
+public @interface Meals {
 	Meal[] value();
 }
